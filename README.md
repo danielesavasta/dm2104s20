@@ -20,6 +20,9 @@ in campus at [xLab - Interaction Lab](http://xlab.yasar.edu.tr)
 
 Compile the cover, your previous readings, this exercise in your booklet number its pages and upload before the next class 2 April. |
 
+## Further readings
+(Four definitions of design)[https://uxdesign.cc/four-definitions-of-design-9e107fb057c5]
+
 ## Ethical Rules
 Academic integrity: Students are required to use their own ideas and skills in order to produce original works. Any image, typeface, text downloaded from the internet, if not shared under a Creative Commons License, is considered unauthorized. Therefore, any reproduction, representation, adaptation, translation and/or modification of someone else’s work, partial or total, is prohibited. Students may consult with other students for conceptual and debugging help while working on their code, but unless specified on the assignment, the final code submitted should be written, tested and documented by the student. The case of using code snippets from online sources is allowed up to being 10% of the student’s submission with proper comments in the submission referring to the original source. Any student observed to not have adhered to these rules, will be subject to disciplinary action.
 
